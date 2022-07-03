@@ -1,0 +1,2 @@
+# BoredApi
+BoredApi
